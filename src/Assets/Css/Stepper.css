@@ -1,0 +1,42 @@
+
+.stepper-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.stepper {
+  display: flex;
+  gap: 6rem;
+  margin-left: 3rem;
+}
+
+.step {
+  width: 40px;
+  height: 40px;
+  background-color: #903233;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+  font-weight: bold;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+ 
+
+  &.inactive {
+    background-color: #ddd;
+    color: #555;
+  }
+
+ 
+  &.active {
+    background-color: #4caf50;
+    color: #fff;
+  }
+

@@ -1,0 +1,26 @@
+.razorpay-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.razorpay-btn {
+  background-color: #f37254;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.razorpay-btn:hover {
+  background-color: #d6553d;
+}
+
+.razorpay-btn:disabled {
+  background-color: #ccc; 
+  cursor: not-allowed;
+}

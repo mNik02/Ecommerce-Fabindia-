@@ -1,0 +1,115 @@
+.footercolumn {
+  background-color: #f3ece8!important;
+  color: #000000!important;
+  padding: 20px 0!important;
+  position: relative;
+}
+
+.footercontainer {
+  display: grid!important;
+  grid-template-columns: repeat(1, 1fr)!important;
+  gap: 30px!important;
+  width: 100%!important;
+  padding-right: 15px!important;
+  padding-left: 15px!important;
+  max-width: 1250px!important;
+  margin-right: auto!important;
+  margin-left: -45px!important;
+
+}
+
+.footer-section {
+  padding: 7px 44px!important;
+ 
+}
+
+
+.footer-heading {
+  font-size: 1.2rem!important;
+  margin-bottom: 10px!important;
+  font: 1rem Assistant sans-serif!important;
+  font-weight: 700!important;
+}
+
+.footer-list {
+  list-style: none!important;
+  padding: 0!important;
+  margin: 0!important;
+  font:0.7rem sans-serif!important;
+  margin-top: 10px!important;
+  line-height: 30px!important;
+  letter-spacing: 1px!important;
+}
+
+.footer-list .li {
+  margin-bottom: 8px!important;
+}
+
+.footer-list .a {
+  color: #000000!important;
+  text-decoration: none!important;
+}
+
+.footer-list .a:hover {
+  text-decoration: underline!important;
+}
+
+ 
+.mb-sm-1{
+  margin-bottom: .25rem!important;
+
+}
+.flex-row{
+  flex-direction: row!important;
+  margin-left: 62px!important;
+    letter-spacing: 18px!important;
+    color: black!important;
+    margin-top: 1%!important;
+}
+
+.d-flex{
+  display: flex!important;
+}
+.footerrow{
+  column-gap: 39px!important;
+  display: flex;
+  margin-left: 48px;
+
+}
+.footercolumn p{
+  margin-left: 5%!important;
+  font-weight: 500;
+  font-size: larger!important;
+  font-family: inherit!important;
+}
+.footercolumn .ptag{
+  font-weight: 500!important;
+  font-size: larger!important;
+  font-family: inherit!important;
+  margin-left: 48%!important;
+  margin-top: -1.77rem!important;
+}
+.playstore img{
+  width: 140px !important;
+    height: auto!important;
+    margin-right: .5rem!important;
+    max-width: 100%!important;
+    max-height: 100%!important;
+    transform: scale(1)!important;
+    opacity: 1!important;
+    transition: all .6s!important;
+    margin-left: 173%!important;
+    vertical-align: middle!important;
+}
+.playstore .applestore{
+  margin-top: -2.64rem!important;
+  margin-left: 275%!important;
+  width: 140px!important;
+
+}
+.copyright{
+font-size: medium!important;
+color: #6c7079!important;
+font-weight: 300!important;
+
+}

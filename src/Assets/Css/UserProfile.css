@@ -1,0 +1,331 @@
+.navigation-msg {
+  font-size: 0.8rem;
+  color: #4a4a4a;
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+
+.details-container {
+  display: flex;
+  margin-bottom: 5rem;
+}
+
+.side-menu-data {
+  width: 22%;
+  height: 100%;
+  margin-top: 1rem;
+  margin-left: 3.5rem;
+  background-color: #f8f6f5;
+  margin-bottom: -10rem;
+}
+
+.side-menu-items {
+  margin-top: 1rem;
+  margin-left: 10px;
+  text-align: center;
+  margin-bottom: 1rem;
+
+}
+
+.main-data {
+  width: 67%;
+  height: 100;
+  margin-left: 3rem;
+  margin-top: 1rem;
+
+
+}
+
+.profile-card {
+  width: 103%;
+  background-color: #f8f6f5;
+  height: 243px;
+
+  padding-top: 2rem;
+
+
+}
+
+.dropdown-icon-delete {
+  margin-left: 7rem;
+  transition: transform 0.3s ease;
+
+}
+
+.dropdown-icon-unsubscribe {
+  margin-left: 8.4rem;
+  transition: transform 0.3s ease;
+}
+
+.dropdown-icon-gift {
+  margin-left: 9.6rem;
+  transition: transform 0.3s ease;
+}
+
+.dropdown-icon-orders {
+  margin-left: 9rem;
+  transition: transform 0.3s ease;
+}
+
+.dropdown-icon-family {
+  margin-left: 9.44rem;
+  transition: transform 0.3s ease;
+}
+
+.dropdown-icon-address {
+  margin-left: 8.5rem;
+  transition: transform 0.3s ease;
+
+}
+
+.dropdown-icon-profile {
+  margin-left: 9rem;
+  transition: transform 0.3s ease;
+
+}
+
+.user-name {
+  font-size: 16px;
+  color: #4a4a4a;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-bottom: -1rem;
+  margin-left: 20rem;
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+}
+
+.edit-icon {
+  margin-top: -1.8rem;
+  margin-left: 13rem;
+  margin-left: 35rem;
+}
+
+.user-mobile {
+  font-size: 16px;
+  color: #4a4a4a;
+  margin-top: -2px;
+  margin-left: 20rem;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+}
+
+.user-email {
+  font-size: 16px;
+  color: #4a4a4a;
+  margin-top: 5px;
+  margin-left: 20rem;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+}
+
+.user-gender {
+  font-size: 16px;
+  color: #4a4a4a;
+  margin-top: 5px;
+  margin-left: 20rem;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+}
+
+.user-dob {
+  font-size: 16px;
+  color: #4a4a4a;
+  margin-top: 5px;
+  margin-left: 20rem;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+}
+
+.user-password {
+  font-size: 16px;
+  color: #903233;
+  margin-top: 5px;
+  margin-left: 20rem;
+  letter-spacing: 0.5px;
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+}
+
+.location-icon {
+  height: 25px !important;
+  width: 35px !important;
+  display: block !important;
+  margin-top: -1rem;
+  margin-left: 5rem;
+  color: #903233;
+  margin-bottom: 3px;
+}
+
+.family-icon {
+  height: 25px !important;
+  width: 35px !important;
+  display: block !important;
+  margin-top: -1rem;
+  margin-left: 5rem;
+  color: #903233;
+  margin-bottom: 3px;
+}
+
+.gift-icon {
+  height: 25px !important;
+  width: 35px !important;
+  display: block !important;
+  margin-top: -1rem;
+  margin-left: 4.75rem;
+  color: #903233;
+  margin-bottom: 3px;
+}
+
+.order-icon {
+  height: 25px !important;
+  width: 35px !important;
+  display: block !important;
+  margin-top: -1rem;
+  margin-left: 5rem;
+  color: #903233;
+  margin-bottom: 3px;
+}
+
+.unsubscribe-icon {
+  height: 25px !important;
+  width: 35px !important;
+  display: block !important;
+  margin-top: -1rem;
+  margin-left: 5rem;
+  color: #903233;
+  margin-bottom: 3px;
+}
+
+.del-icon {
+  height: 25px !important;
+  width: 35px !important;
+  display: block !important;
+  margin-top: -1rem;
+  margin-left: 5.5rem;
+  color: #903233;
+  margin-bottom: 3px;
+}
+
+.address-card {
+  align-items: center;
+  font-size: 10px;
+  font-weight: 200;
+  width: 110%;
+  display: flex;
+  height: 85%;
+}
+
+.location-title {
+  margin-left: 4rem;
+  color: #4a4a4a;
+  font-size: 19px;
+  font-weight: 200;
+}
+
+.family-title {
+  margin-left: 3.5rem;
+  color: #4a4a4a;
+  font-size: 19px;
+  font-weight: 200;
+
+}
+
+.order-title {
+  margin-left: 3.5rem;
+  color: #4a4a4a;
+  font-size: 19px;
+  font-weight: 200;
+}
+
+.gift-title {
+  margin-left: 3.5rem;
+  color: #4a4a4a;
+  font-size: 19px;
+  font-weight: 200;
+  width: 100%;
+}
+
+.unsubscribe-title {
+  margin-left: 3.5rem;
+  color: #4a4a4a;
+  font-size: 19px;
+  font-weight: 200;
+}
+
+.del-title {
+  margin-left: 2rem;
+  color: #4a4a4a;
+  font-size: 19px;
+  font-weight: 200;
+  width: 100%;
+}
+
+
+.location-msg {
+  margin-left: 1rem;
+  margin-top: 52px;
+  font-size: 10px;
+  font-weight: 400;
+
+
+}
+
+.del-msg {
+  margin-left: 0.5rem;
+  margin-top: 52px;
+
+}
+
+.unsubscribe-msg {
+  margin-left: 0.5rem;
+  margin-top: 52px;
+
+}
+
+.family-msg {
+  margin-left: 0.5rem;
+  margin-top: 52px;
+  font-size: 10px;
+  font-weight: 400;
+
+}
+
+.order-msg {
+  margin-left: 2.8rem;
+  margin-top: 52px;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.gift-msg {
+  margin-left: 0rem;
+  margin-top: 52px;
+
+}
+
+.menu-cards {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 3rem;
+  display: grid;
+}
+
+.logout {
+  background-color: #9b3536 !important;
+  font-size: 1rem;
+  border-radius: 25px;
+  text-align: center;
+  font-weight: 400;
+  padding: 9px 25px !important;
+  color: #ffffff;
+  font-family: inherit;
+  margin-top: 6rem;
+  margin-left: 20.2rem;
+  width: 22%;
+  height: 2.5rem;
+  margin-inline-end: 18rem;
+}

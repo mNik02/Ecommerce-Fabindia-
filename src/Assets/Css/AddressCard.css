@@ -1,0 +1,40 @@
+.address-card{
+  width: 50%;
+  padding: 30px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-left: 0rem;
+  color: #14293a;
+  font-weight: 900;
+}
+
+.addresstype{
+  font-size: 20px!important;
+  font-weight: 600!important;
+  font-family: Assistant, Open Sans, Calibri, Tahoma, sans-serif !important;
+  box-shadow: none!important;
+  
+}
+.name{
+  font-weight: 400;
+}
+.addressline{
+  font-weight: 400;
+}
+.city-pin{
+  font-weight: 400;
+}
+.mobile-no{
+  font-weight: 400;
+}
+.new-address{
+  color: #903233;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+.fa-plus-circle{
+  color: #903233;
+}

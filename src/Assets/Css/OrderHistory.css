@@ -1,0 +1,66 @@
+.order-history {
+  overflow-y: overlay;
+  height: 36rem;
+  margin-bottom: 6rem;
+  margin-right: 4rem;
+  margin-left: 5rem;
+  margin-top: 4rem;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.history-page {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  overflow: overlay;
+  justify-content: space-evenly;
+  /* or justify-content: space-between; */
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.title-history {
+  font-size: 2rem;
+  font-family: cursive;
+  margin-left: 5rem;
+  margin-top: 3rem;
+  margin-right: 49rem;
+}
+
+.history-image {
+  width: 5rem !important;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+}
+
+.history-title {
+  font-size: 1rem;
+  color: blue;
+  margin-left: 4rem;
+  margin-top: 2rem;
+
+
+}
+
+.order-date {
+  font-size: 1rem;
+  color: #903233;
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+
+.order-status {
+  font-size: 1rem;
+  color: green;
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+
+.amount {
+  font-size: 1rem;
+  color: #903233;
+  margin-top: 2rem;
+  margin-left: 4rem;
+}

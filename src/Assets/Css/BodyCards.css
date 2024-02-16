@@ -1,0 +1,37 @@
+.CardCarousel{
+  background-color: #f3e0e0;
+  margin-left: 19.2%;
+  display: block;
+  justify-content: space-evenly;
+}
+.cards{
+  justify-content: space-evenly!important;
+  margin-top: 22px;
+  display: flex;
+}
+.sideright{
+  position: absolute!important;
+  margin-top: -10.5rem!important;
+  margin-left: -1.2rem!important;
+  transform: translateX(50%) rotate(-90deg);
+  background-color: white!important;
+}
+
+.sideleft{
+  position: absolute!important;
+  margin-top: -10.5rem!important;
+  margin-left: 54.5rem!important;
+  transform: translateX(50%) rotate(90deg);
+  background-color: white!important;
+
+}
+.Cardtitle{
+  font-style: oblique;
+    font-size: xxx-large;
+    color: grey;
+    display: block;
+    margin-left: -22%;
+}
+.CursorPointer{
+z-index: 0!important;
+}

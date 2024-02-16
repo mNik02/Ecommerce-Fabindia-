@@ -1,0 +1,67 @@
+.background-img {
+  height: 48rem;
+}
+
+.left-bg {
+  margin-top: -32rem;
+}
+
+.right-bg {
+  margin-left: 80%;
+}
+
+.icons-data {
+  margin-left: 37rem;
+}
+
+.center-data {
+  margin-top: -22rem;
+}
+
+.hello {
+  font-style: italic;
+  font-family: Playfair Display;
+  font-weight: 600;
+  font-size: 28px;
+  margin-bottom: .5rem !important;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 4rem;
+  margin-top: 12rem;
+}
+
+.hello-text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: white;
+  margin-left: 29.8rem;
+  font-family: ui-monospace;
+  margin-top: -0.8rem;
+}
+
+.login-icon {
+  display: grid;
+  margin-left: 23.5rem;
+  margin-top: 1rem;
+}
+
+.landing-login-btn {
+  border-radius: 14rem;
+  background-color: #903233;
+  cursor: pointer;
+  padding: 5px 100px;
+  text-decoration: antiquewhite;
+  color: white;
+  margin-left: 135px;
+  margin-bottom: 15px;
+}
+
+.landing-register-btn {
+  border-radius: 5rem;
+  background-color: white;
+  cursor: pointer;
+  padding: 5px 91px;
+  color: #903233;
+  margin-left: 138px;
+  margin-top: 6px;
+}

@@ -1,0 +1,12 @@
+
+.card-adjust {
+  --bs-gutter-x: 1.5rem !important;
+    --bs-gutter-y: 0 !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    margin-top: calc(-1 * var(--bs-gutter-y)) !important;
+    justify-content: space-evenly;
+    margin-left: 0%!important;
+    margin-right: 0% !important;
+    margin-top: 20px;
+}

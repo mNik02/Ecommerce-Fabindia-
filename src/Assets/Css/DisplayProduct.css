@@ -1,0 +1,150 @@
+.product-details {
+  width: 98% !important;
+}
+
+.product-details h2 {
+
+  font-size: 31px !important;
+  font-family: "Playfair Display", serif !important;
+  font-weight: 700 !important;
+  color: black;
+  margin-top: -44% !important;
+  line-height: 1em;
+  text-align: left;
+  height: 52px;
+  width: 51% !important;
+  margin-bottom: 8% !important;
+  margin-left: 53.5%;
+}
+
+.product-details img {
+  margin-left: 6% !important;
+  margin-top: 3% !important;
+
+}
+
+.product__row {
+  margin-top: 24px;
+  margin-bottom: 5% !important;
+  width: 92%;
+}
+
+.productimage {
+  height: 512.67px !important;
+  width: 512.67px !important;
+}
+
+.description {
+  width: 100%;
+  line-height: 20px !important;
+  letter-spacing: 0.02em;
+  box-sizing: border-box;
+  backface-visibility: hidden;
+  font-size: 16px;
+  color: rgb(52, 51, 51) !important;
+  height: 40px !important;
+  width: 607.67px !important;
+  margin-left: 54% !important;
+  margin: 14px 598px;
+  font-weight: 400 !important;
+  font-family: Montserrat, sans-serif;
+  margin-top: -32% !important;
+  text-align: left;
+}
+
+.ppsicon {
+  width: 16px !important;
+  margin-left: 2% !important;
+  vertical-align: text-bottom !important;
+  margin-top: 1% !important;
+
+}
+
+p.preserve {
+  margin-top: -26% !important;
+  margin-left: 55%;
+  text-align: left;
+  font-size: 13px;
+  font-weight: 700 !important;
+  line-height: 36px !important;
+  letter-spacing: 0.035em;
+  color: #8c5a4f;
+  background: #f5efe9;
+  padding: 0px;
+  height: 32px;
+  width: 559px;
+  padding-left: 0px;
+
+
+}
+
+.cost {
+  color: #2d2c2c;
+  font-weight: 400 !important;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  text-align: center;
+  letter-spacing: 0;
+  width: 246px !important;
+  height: 13px;
+  line-height: 13px !important;
+  margin-top: -36% !important;
+  margin-left: 54%;
+}
+
+.productdesc {
+  line-height: 20px !important;
+  letter-spacing: 0.02em;
+  color: #121317;
+  font-family: sans-serif;
+  font-size: 15px;
+  width: 607.67px !important;
+  text-align: left;
+  margin-left: 54%;
+  margin-top: -30% !important;
+
+}
+
+.buttons {
+  background-color: #EFEFEF;
+  width: 168px !important;
+  height: 35px;
+  margin-left: 50rem;
+  margin-top: -8rem;
+  padding: 1.1px 39px;
+}
+
+.decbutton {
+  border: none;
+  margin-left: -29%;
+  font-size: 22px !important;
+  font-weight: 600 !important;
+  text-align: left;
+}
+
+.incbutton {
+  border: none;
+  margin-right: -29%;
+  font-size: 22px !important;
+  font-weight: 600 !important;
+  text-align: right;
+}
+
+.addbutton {
+  width: 300px !important;
+  height: 42px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1px;
+  letter-spacing: .2em;
+  background-color: #9b3536;
+  color: #ffffff;
+  padding: 12px 32px;
+  border-radius: 20px !important;
+  cursor: pointer;
+  margin-top: -5rem !important;
+  margin-left: 46rem;
+  position: relative;
+}
